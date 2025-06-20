@@ -30,7 +30,7 @@ BlackMirror v2 is an **ethical OSINT-based phishing simulator** designed to **de
 ![PDF Page 1](pdf_page_1.png)
 ![PDF Page 2](pdf_page_2.png)
 
-> ⚠️ Emojis may throw font warnings during PDF generation, but this doesn't break functionality.
+
 
 ---
 
