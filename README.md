@@ -23,12 +23,12 @@ BlackMirror v2 is an **ethical OSINT-based phishing simulator** designed to **de
 ### 🧠 CLI Output
 
 ![CLI Output 1](cli_output_1.png)
-![CLI Output 2](screenshots/cli_output_2.png)
+![CLI Output 2](cli_output_2.png)
 
 ### 📄 Generated PDF
 
-![PDF Page 1](screenshots/pdf_page_1.png)
-![PDF Page 2](screenshots/pdf_page_2.png)
+![PDF Page 1](pdf_page_1.png)
+![PDF Page 2](pdf_page_2.png)
 
 > ⚠️ Emojis may throw font warnings during PDF generation, but this doesn't break functionality.
 
